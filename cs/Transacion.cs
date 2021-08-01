@@ -1,4 +1,7 @@
-﻿
+﻿/**
+ * @author  John Tibagan
+ * @code    1002709915
+ */
 namespace CajeroAutomatico.cs
 {
     class Transacion : FechaEstado

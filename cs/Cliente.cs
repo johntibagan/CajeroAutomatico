@@ -1,7 +1,10 @@
 ﻿
 using System;
 using System.Collections.Generic;
-
+/**
+ * @author  John Tibagan
+ * @code    1002709915
+ */
 namespace CajeroAutomatico.cs
 {
     class Cliente : ASaldo

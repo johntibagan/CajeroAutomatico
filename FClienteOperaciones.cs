@@ -2,7 +2,11 @@
 using System;
 using System.Drawing;
 using System.Windows.Forms;
-
+/**
+ * @author  John Tibagan
+ * @code    1002709915
+ * @socialización: https://youtu.be/Y6Vzx8Sh58Q
+ */
 namespace CajeroAutomatico
 {
     public partial class FClienteOperaciones : Form

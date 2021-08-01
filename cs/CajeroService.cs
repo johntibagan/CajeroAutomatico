@@ -2,7 +2,10 @@
 
 using System;
 using System.Windows.Forms;
-
+/**
+ * @author  John Tibagan
+ * @code    1002709915
+ */
 namespace CajeroAutomatico.cs
 {
     class CajeroService

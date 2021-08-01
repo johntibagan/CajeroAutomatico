@@ -1,4 +1,8 @@
-﻿namespace CajeroAutomatico.cs
+﻿/**
+ * @author  John Tibagan
+ * @code    1002709915
+ */
+namespace CajeroAutomatico.cs
 {
     interface IOperacion
     {
